@@ -1,0 +1,14 @@
+Server Laravel 9
+first configure .env file,
+then run composer update
+then run php artisan db:seed --class=FilmsSeeder (Make sure you have 1 user atleas)
+I have attached Postman collection
+and run php artisan serve
+
+Client Side Vue 3
+run npm install
+and run npm run dev
+
+
+Thanks
+=============================================
